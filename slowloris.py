@@ -181,7 +181,7 @@ def interactive_mode():
 \t ___| | _____      _| | ___  _ __(_)___
 \t/ __| |/ _ \ \ /\ / / |/ _ \| '__| / __|
 \t\__ \ | (_) \ V  V /| | (_) | |  | \__ \\
-\t|___/_|\___/ \_/\_/ |_|\___/|_|  |_|___/"""+green+"("+white+_version_+green+")"+red+"\n\n\t\t[ "+_description_+" ]"+white+"\n\t\t  © Copyright 2020 blackc8"+white+"\n"
+\t|___/_|\___/ \_/\_/ |_|\___/|_|  |_|___/"""+green+"("+white+_version_+green+")"+red+"\n\n\t\t[ "+_description_+" ]"+white+"\n\t\t  © Copyright 2020 s0ubhik"+white+"\n"
     print(big_banner)
 
     print("\t\t    "+cyan+"(Interactive Mode)"+ncol)
