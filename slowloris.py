@@ -3,7 +3,7 @@ import platform, socket, random, time
 _appname_="slowloris"
 _version_="0.1"
 _description_="fastly take down the web"
-_author_="blackc8"
+_author_="s0ubhik"
 
 ncol   ="\033[0m"
 bold   ="\033[1m"
