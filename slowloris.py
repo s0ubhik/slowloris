@@ -57,7 +57,7 @@ def Eexit(msg):
     exit()
 
 
-min_banner=bold+purple+_appname_+white+"("+green+_version_+white+")["+blue+"blackc8"+white+"]"
+min_banner=bold+purple+_appname_+white+"("+green+_version_+white+")["+blue+"s0ubhik"+white+"]"
 
 # default config
 headers = [
